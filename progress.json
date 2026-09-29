@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:43:53.705Z",
+  "generated_at": "2026-10-01T07:43:56.000Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -157,6 +157,54 @@
       "last_pushed_at": "2026-09-28T22:15:18.429Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-09-29T06:41:08.822Z",
+      "last_pushed_at": "2026-09-29T06:41:08.822Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-09-29T07:48:00.236Z",
+      "last_pushed_at": "2026-09-29T07:48:00.236Z",
+      "language": "python",
+      "lines": 27
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-09-29T07:53:43.167Z",
+      "last_pushed_at": "2026-09-29T07:53:43.167Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-09-29T07:56:38.301Z",
+      "last_pushed_at": "2026-09-29T07:56:38.301Z"
     }
   }
 }

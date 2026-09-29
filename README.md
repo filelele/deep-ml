@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 7 problems · 0 labs · 6 math
+**17** solved · 9 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -14,6 +14,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-09-28 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-28 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-29 | [solution](problems/0308-gradient-direction-and-magnitude) |
+| [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-29 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-28 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-28 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-09-28 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
@@ -25,8 +27,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-28 | [solution](math/0001-derivatives-and-gradients) |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-29 | [solution](math/0018-descriptive-statistics) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-28 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-28 | [solution](math/0009-matrix-basics) |
+| [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-29 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-28 | [solution](math/0007-vector-operations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-28 | [solution](math/0010-matrix-multiplication) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-28 | [solution](math/0008-vector-norms-and-linear-independence) |
