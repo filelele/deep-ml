@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:43:56.000Z",
+  "generated_at": "2026-10-01T07:43:58.240Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -205,6 +205,117 @@
       "path": "math/0019-probability-fundamentals",
       "first_solved_at": "2026-09-29T07:56:38.301Z",
       "last_pushed_at": "2026-09-29T07:56:38.301Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-09-30T18:56:49.393Z",
+      "last_pushed_at": "2026-09-30T18:56:49.393Z"
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-09-30T19:29:06.694Z",
+      "last_pushed_at": "2026-09-30T19:29:06.694Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-09-30T19:35:25.031Z",
+      "last_pushed_at": "2026-09-30T19:35:25.031Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-09-30T19:42:37.913Z",
+      "last_pushed_at": "2026-09-30T19:42:37.913Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-30T19:52:19.973Z",
+      "last_pushed_at": "2026-09-30T19:52:19.973Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-09-30T19:53:50.027Z",
+      "last_pushed_at": "2026-09-30T19:53:50.027Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-30T19:54:08.450Z",
+      "last_pushed_at": "2026-09-30T19:54:08.450Z",
+      "language": "python",
+      "lines": 17
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-09-30T19:59:44.925Z",
+      "last_pushed_at": "2026-09-30T19:59:44.925Z"
+    },
+    "math:12": {
+      "kind": "math",
+      "id": "12",
+      "title": "Inverse and Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/12",
+      "path": "math/0012-inverse-and-rank",
+      "first_solved_at": "2026-09-30T20:12:23.788Z",
+      "last_pushed_at": "2026-09-30T20:12:23.788Z"
     }
   }
 }
