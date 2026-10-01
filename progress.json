@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T07:43:59.990Z",
+  "generated_at": "2026-10-01T07:44:02.368Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/math-problems/7",
       "path": "math/0007-vector-operations",
       "first_solved_at": "2026-09-28T12:54:04.159Z",
-      "last_pushed_at": "2026-09-28T12:54:04.159Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "math:9": {
       "kind": "math",
@@ -21,7 +21,7 @@
       "url": "https://www.deep-ml.com/math-problems/9",
       "path": "math/0009-matrix-basics",
       "first_solved_at": "2026-09-28T16:30:22.068Z",
-      "last_pushed_at": "2026-09-28T16:30:22.068Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "math:10": {
       "kind": "math",
@@ -32,7 +32,7 @@
       "url": "https://www.deep-ml.com/math-problems/10",
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-09-28T16:33:52.397Z",
-      "last_pushed_at": "2026-09-28T16:33:52.397Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "math:8": {
       "kind": "math",
@@ -43,7 +43,7 @@
       "url": "https://www.deep-ml.com/math-problems/8",
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-28T17:48:34.370Z",
-      "last_pushed_at": "2026-09-28T17:48:34.370Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "problem:328": {
       "kind": "problem",
@@ -119,7 +119,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-28T19:36:26.844Z",
-      "last_pushed_at": "2026-09-28T19:36:26.844Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "math:5": {
       "kind": "math",
@@ -130,7 +130,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-28T19:53:55.934Z",
-      "last_pushed_at": "2026-09-28T19:53:55.934Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "problem:116": {
       "kind": "problem",
@@ -193,7 +193,7 @@
       "url": "https://www.deep-ml.com/math-problems/18",
       "path": "math/0018-descriptive-statistics",
       "first_solved_at": "2026-09-29T07:53:43.167Z",
-      "last_pushed_at": "2026-09-29T07:53:43.167Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "math:19": {
       "kind": "math",
@@ -204,7 +204,7 @@
       "url": "https://www.deep-ml.com/math-problems/19",
       "path": "math/0019-probability-fundamentals",
       "first_solved_at": "2026-09-29T07:56:38.301Z",
-      "last_pushed_at": "2026-09-29T07:56:38.301Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "math:33": {
       "kind": "math",
@@ -215,7 +215,7 @@
       "url": "https://www.deep-ml.com/math-problems/33",
       "path": "math/0033-expectation-and-variance-algebra",
       "first_solved_at": "2026-09-30T18:56:49.393Z",
-      "last_pushed_at": "2026-09-30T18:56:49.393Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "problem:78": {
       "kind": "problem",
@@ -304,7 +304,7 @@
       "url": "https://www.deep-ml.com/math-problems/11",
       "path": "math/0011-determinants-and-trace",
       "first_solved_at": "2026-09-30T19:59:44.925Z",
-      "last_pushed_at": "2026-09-30T19:59:44.925Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "math:12": {
       "kind": "math",
@@ -315,7 +315,7 @@
       "url": "https://www.deep-ml.com/math-problems/12",
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-09-30T20:12:23.788Z",
-      "last_pushed_at": "2026-09-30T20:12:23.788Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     },
     "math:13": {
       "kind": "math",
@@ -326,7 +326,7 @@
       "url": "https://www.deep-ml.com/math-problems/13",
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-10-01T07:20:04.129Z",
-      "last_pushed_at": "2026-10-01T07:20:04.129Z"
+      "last_pushed_at": "2026-10-01T07:44:02.367Z"
     }
   }
 }
